@@ -3,3 +3,7 @@
 # conflicto resuelto!!!
 
 # navegacón lista
+ 
+# estilo eliminado
+
+# repositorio regenerado 
